@@ -1,0 +1,189 @@
+id,Indicator,Facility Type,Total No. of Facilities #,Facilities reporting nil performance - Numbers*,Details of Maximum and Minimum Performing facilities - Performance,Details of Maximum and Minimum Performing facilities - Value Reported,Details of Maximum and Minimum Performing facilities - Sub-district,Details of Maximum and Minimum Performing facilities - Facility
+0,Deliveries conducted at facility,DH,1,0,Maximum,868,Raisen,RAISEN
+1,Deliveries conducted at facility,DH,1,0,Minimum,868,Raisen,RAISEN
+2,Deliveries conducted at facility,SDH,2,0,Maximum,479,Gairatganj,CHC GAIRATGANJ
+3,Deliveries conducted at facility,SDH,2,0,Minimum,327,Begamganj,CH Begumganj
+4,Deliveries conducted at facility,CHC,6,0,Maximum,479,Gairatganj,CHC GAIRATGANJ
+5,Deliveries conducted at facility,CHC,6,0,Minimum,100,Raisen,CHC sanchi
+6,Deliveries conducted at facility,PHC,22,8,Maximum,263,Obedullaganj,CHC Obaidullaganj
+7,Deliveries conducted at facility,PHC,22,8,Minimum,14,Baraily,utiya kala
+8,Deliveries conducted at facility,SC,185,179,Maximum,70,Raisen,kharbai
+9,Deliveries conducted at facility,SC,185,179,Minimum,4,Silwani,SHC Searmau
+10,C -Section deliveries at facility,DH,1,0,Maximum,152,Raisen,RAISEN
+11,C -Section deliveries at facility,DH,1,0,Minimum,152,Raisen,RAISEN
+12,C -Section deliveries at facility,CHC,6,6,Maximum,19,Obedullaganj,CHC Mandideep
+13,C -Section deliveries at facility,CHC,6,6,Minimum,19,Obedullaganj,CHC Mandideep
+14,IPD Attendance,DH,1,0,Maximum,5045,Raisen,RAISEN
+15,IPD Attendance,DH,1,0,Minimum,5045,Raisen,RAISEN
+16,IPD Attendance,SDH,2,0,Maximum,736,Begamganj,CH Begumganj
+17,IPD Attendance,SDH,2,0,Minimum,545,Gairatganj,CHC GAIRATGANJ
+18,IPD Attendance,CHC,6,0,Maximum,3598,Baraily,CHC Bareli
+19,IPD Attendance,CHC,6,0,Minimum,69,Baraily,CHC Badi
+20,IPD Attendance,PHC,22,8,Maximum,717,Obedullaganj,CHC Obaidullaganj
+21,IPD Attendance,PHC,22,8,Minimum,9,Baraily,utiya kala
+22,OPD attendance (All),DH,1,0,Maximum,65145,Raisen,RAISEN
+23,OPD attendance (All),DH,1,0,Minimum,65145,Raisen,RAISEN
+24,OPD attendance (All),SDH,2,0,Maximum,25074,Begamganj,CH Begumganj
+25,OPD attendance (All),SDH,2,0,Minimum,18325,Gairatganj,CHC GAIRATGANJ
+26,OPD attendance (All),CHC,6,0,Maximum,24942,Silwani,CHC Silwani
+27,OPD attendance (All),CHC,6,0,Minimum,7355,Baraily,CHC Badi
+28,OPD attendance (All),PHC,22,4,Maximum,19501,Obedullaganj,CHC Obaidullaganj
+29,OPD attendance (All),PHC,22,4,Minimum,120,Baraily,googalwada
+30,OPD attendance (All),SC,185,6,Maximum,795,Raisen,NARWAR
+31,OPD attendance (All),SC,185,6,Minimum,6,Obedullaganj,Obaidullaganj B
+32,Operation major (General and spinal anaesthesia),DH,1,0,Maximum,208,Raisen,RAISEN
+33,Operation major (General and spinal anaesthesia),DH,1,0,Minimum,208,Raisen,RAISEN
+34,Operation major (General and spinal anaesthesia),CHC,6,6,Maximum,5,Obedullaganj,CHC Mandideep
+35,Operation major (General and spinal anaesthesia),CHC,6,6,Minimum,5,Obedullaganj,CHC Mandideep
+36,Operation minor (No or local anaesthesia),DH,1,0,Maximum,105,Raisen,RAISEN
+37,Operation minor (No or local anaesthesia),DH,1,0,Minimum,105,Raisen,RAISEN
+38,Operation minor (No or local anaesthesia),SDH,2,1,Maximum,46,Begamganj,CH Begumganj
+39,Operation minor (No or local anaesthesia),SDH,2,1,Minimum,46,Begamganj,CH Begumganj
+40,Operation minor (No or local anaesthesia),CHC,6,5,Maximum,69,Baraily,CHC Bareli
+41,Operation minor (No or local anaesthesia),CHC,6,5,Minimum,58,Obedullaganj,CHC Mandideep
+42,Operation minor (No or local anaesthesia),PHC,22,20,Maximum,26,Obedullaganj,CHC Obaidullaganj
+43,Operation minor (No or local anaesthesia),PHC,22,20,Minimum,2,Obedullaganj,Sultanpur
+44,Deliveries conducted at facility,DH,1,0,Maximum,2617,Chhindwara,District Hospital
+45,Deliveries conducted at facility,DH,1,0,Minimum,2617,Chhindwara,District Hospital
+46,Deliveries conducted at facility,SDH,4,0,Maximum,409,Pandhurna,CH Pandhurna
+47,Deliveries conducted at facility,SDH,4,0,Minimum,102,Parasia,CH Chandameta
+48,Deliveries conducted at facility,CHC,12,0,Maximum,459,Parasia,CHC parasia
+49,Deliveries conducted at facility,CHC,12,0,Minimum,14,Amarwara,CHC Pounar
+50,Deliveries conducted at facility,PHC,68,25,Maximum,192,Harrai,BATKHAPA
+51,Deliveries conducted at facility,PHC,68,25,Minimum,1,Chhindwara,ROHNAKALA
+52,Deliveries conducted at facility,PHC,68,25,Minimum,1,Parasia,Kundali
+53,Deliveries conducted at facility,PHC,68,25,Minimum,1,Parasia,Pagara
+54,Deliveries conducted at facility,PHC,68,25,Minimum,1,Parasia,Ridhora
+55,Deliveries conducted at facility,PHC,68,25,Minimum,1,Sausar,Borgaon
+56,Deliveries conducted at facility,SC,312,307,Maximum,3,Parasia,JAMUNIYAJETU
+57,Deliveries conducted at facility,SC,312,307,Maximum,3,Sausar,Razhadipipla
+58,Deliveries conducted at facility,SC,312,307,Minimum,1,Mohkheda,Shikarpur
+59,C -Section deliveries at facility,DH,1,0,Maximum,617,Chhindwara,District Hospital
+60,C -Section deliveries at facility,DH,1,0,Minimum,617,Chhindwara,District Hospital
+61,IPD Attendance,DH,1,0,Maximum,13026,Chhindwara,District Hospital
+62,IPD Attendance,DH,1,0,Minimum,13026,Chhindwara,District Hospital
+63,IPD Attendance,SDH,4,0,Maximum,2259,Sausar,CH Saunsar
+64,IPD Attendance,SDH,4,0,Minimum,365,Parasia,CH Chandameta
+65,IPD Attendance,CHC,12,0,Maximum,2259,Sausar,CH Saunsar
+66,IPD Attendance,CHC,12,0,Minimum,16,Amarwara,CHC Pounar
+67,IPD Attendance,PHC,68,27,Maximum,193,Harrai,BATKHAPA
+68,IPD Attendance,PHC,68,27,Minimum,2,Chaurai,KUNDA
+69,IPD Attendance,PHC,68,27,Minimum,2,Jamai,Goptarai
+70,IPD Attendance,PHC,68,27,Minimum,2,Mohkheda,HEERAWADI
+71,OPD attendance (All),DH,1,0,Maximum,72232,Chhindwara,District Hospital
+72,OPD attendance (All),DH,1,0,Minimum,72232,Chhindwara,District Hospital
+73,OPD attendance (All),SDH,4,0,Maximum,15134,Amarwara,CH Amarwara
+74,OPD attendance (All),SDH,4,0,Minimum,6742,Parasia,CH Chandameta
+75,OPD attendance (All),CHC,12,0,Maximum,15419,Jamai,CHC Jamai
+76,OPD attendance (All),CHC,12,0,Minimum,514,Amarwara,PHC Singodi
+77,OPD attendance (All),PHC,68,2,Maximum,3589,Pandhurna,Marud
+78,OPD attendance (All),PHC,68,2,Minimum,18,Chaurai,MACHAGORA
+79,OPD attendance (All),SC,312,17,Maximum,825,Amarwara,Sonpur
+80,OPD attendance (All),SC,312,17,Minimum,5,Jamai,Morkund
+81,Operation major (General and spinal anaesthesia),DH,1,0,Maximum,775,Chhindwara,District Hospital
+82,Operation major (General and spinal anaesthesia),DH,1,0,Minimum,775,Chhindwara,District Hospital
+83,Operation major (General and spinal anaesthesia),SDH,4,3,Maximum,2,Pandhurna,CH Pandhurna
+84,Operation major (General and spinal anaesthesia),SDH,4,3,Minimum,2,Pandhurna,CH Pandhurna
+85,Operation major (General and spinal anaesthesia),CHC,12,13,Maximum,2,Pandhurna,CH Pandhurna
+86,Operation major (General and spinal anaesthesia),CHC,12,13,Minimum,2,Pandhurna,CH Pandhurna
+87,Operation minor (No or local anaesthesia),DH,1,0,Maximum,978,Chhindwara,District Hospital
+88,Operation minor (No or local anaesthesia),DH,1,0,Minimum,978,Chhindwara,District Hospital
+89,Operation minor (No or local anaesthesia),SDH,4,1,Maximum,202,Sausar,CH Saunsar
+90,Operation minor (No or local anaesthesia),SDH,4,1,Minimum,10,Pandhurna,CH Pandhurna
+91,Operation minor (No or local anaesthesia),CHC,12,7,Maximum,319,Parasia,CHC parasia
+92,Operation minor (No or local anaesthesia),CHC,12,7,Minimum,6,Amarwara,PHC Singodi
+93,Operation minor (No or local anaesthesia),PHC,68,55,Maximum,60,Mohkheda,LINGA
+94,Operation minor (No or local anaesthesia),PHC,68,55,Minimum,2,Parasia,Mordongri
+0,Deliveries conducted at facility,DH,1,0,Maximum,868,Raisen,RAISEN
+1,Deliveries conducted at facility,DH,1,0,Minimum,868,Raisen,RAISEN
+2,Deliveries conducted at facility,SDH,2,0,Maximum,479,Gairatganj,CHC GAIRATGANJ
+3,Deliveries conducted at facility,SDH,2,0,Minimum,327,Begamganj,CH Begumganj
+4,Deliveries conducted at facility,CHC,6,0,Maximum,479,Gairatganj,CHC GAIRATGANJ
+5,Deliveries conducted at facility,CHC,6,0,Minimum,100,Raisen,CHC sanchi
+6,Deliveries conducted at facility,PHC,22,8,Maximum,263,Obedullaganj,CHC Obaidullaganj
+7,Deliveries conducted at facility,PHC,22,8,Minimum,14,Baraily,utiya kala
+8,Deliveries conducted at facility,SC,185,179,Maximum,70,Raisen,kharbai
+9,Deliveries conducted at facility,SC,185,179,Minimum,4,Silwani,SHC Searmau
+10,C -Section deliveries at facility,DH,1,0,Maximum,152,Raisen,RAISEN
+11,C -Section deliveries at facility,DH,1,0,Minimum,152,Raisen,RAISEN
+12,C -Section deliveries at facility,CHC,6,6,Maximum,19,Obedullaganj,CHC Mandideep
+13,C -Section deliveries at facility,CHC,6,6,Minimum,19,Obedullaganj,CHC Mandideep
+14,IPD Attendance,DH,1,0,Maximum,5045,Raisen,RAISEN
+15,IPD Attendance,DH,1,0,Minimum,5045,Raisen,RAISEN
+16,IPD Attendance,SDH,2,0,Maximum,736,Begamganj,CH Begumganj
+17,IPD Attendance,SDH,2,0,Minimum,545,Gairatganj,CHC GAIRATGANJ
+18,IPD Attendance,CHC,6,0,Maximum,3598,Baraily,CHC Bareli
+19,IPD Attendance,CHC,6,0,Minimum,69,Baraily,CHC Badi
+20,IPD Attendance,PHC,22,8,Maximum,717,Obedullaganj,CHC Obaidullaganj
+21,IPD Attendance,PHC,22,8,Minimum,9,Baraily,utiya kala
+22,OPD attendance (All),DH,1,0,Maximum,65145,Raisen,RAISEN
+23,OPD attendance (All),DH,1,0,Minimum,65145,Raisen,RAISEN
+24,OPD attendance (All),SDH,2,0,Maximum,25074,Begamganj,CH Begumganj
+25,OPD attendance (All),SDH,2,0,Minimum,18325,Gairatganj,CHC GAIRATGANJ
+26,OPD attendance (All),CHC,6,0,Maximum,24942,Silwani,CHC Silwani
+27,OPD attendance (All),CHC,6,0,Minimum,7355,Baraily,CHC Badi
+28,OPD attendance (All),PHC,22,4,Maximum,19501,Obedullaganj,CHC Obaidullaganj
+29,OPD attendance (All),PHC,22,4,Minimum,120,Baraily,googalwada
+30,OPD attendance (All),SC,185,6,Maximum,795,Raisen,NARWAR
+31,OPD attendance (All),SC,185,6,Minimum,6,Obedullaganj,Obaidullaganj B
+32,Operation major (General and spinal anaesthesia),DH,1,0,Maximum,208,Raisen,RAISEN
+33,Operation major (General and spinal anaesthesia),DH,1,0,Minimum,208,Raisen,RAISEN
+34,Operation major (General and spinal anaesthesia),CHC,6,6,Maximum,5,Obedullaganj,CHC Mandideep
+35,Operation major (General and spinal anaesthesia),CHC,6,6,Minimum,5,Obedullaganj,CHC Mandideep
+36,Operation minor (No or local anaesthesia),DH,1,0,Maximum,105,Raisen,RAISEN
+37,Operation minor (No or local anaesthesia),DH,1,0,Minimum,105,Raisen,RAISEN
+38,Operation minor (No or local anaesthesia),SDH,2,1,Maximum,46,Begamganj,CH Begumganj
+39,Operation minor (No or local anaesthesia),SDH,2,1,Minimum,46,Begamganj,CH Begumganj
+40,Operation minor (No or local anaesthesia),CHC,6,5,Maximum,69,Baraily,CHC Bareli
+41,Operation minor (No or local anaesthesia),CHC,6,5,Minimum,58,Obedullaganj,CHC Mandideep
+42,Operation minor (No or local anaesthesia),PHC,22,20,Maximum,26,Obedullaganj,CHC Obaidullaganj
+43,Operation minor (No or local anaesthesia),PHC,22,20,Minimum,2,Obedullaganj,Sultanpur
+44,Deliveries conducted at facility,DH,1,0,Maximum,2738,Chhindwara,District Hospital
+45,Deliveries conducted at facility,DH,1,0,Minimum,2738,Chhindwara,District Hospital
+46,Deliveries conducted at facility,SDH,4,0,Maximum,405,Sausar,CH Saunsar
+47,Deliveries conducted at facility,SDH,4,0,Minimum,103,Parasia,CH Chandameta
+48,Deliveries conducted at facility,CHC,12,0,Maximum,454,Parasia,CHC parasia
+49,Deliveries conducted at facility,CHC,12,0,Minimum,9,Amarwara,CHC Pounar
+50,Deliveries conducted at facility,PHC,68,32,Maximum,186,Harrai,BATKHAPA
+51,Deliveries conducted at facility,PHC,68,32,Minimum,1,Sausar,Borgaon
+52,Deliveries conducted at facility,SC,312,311,Maximum,1,Parasia,JAMUNIYAJETU
+53,Deliveries conducted at facility,SC,312,311,Minimum,1,Parasia,JAMUNIYAJETU
+54,C -Section deliveries at facility,DH,1,0,Maximum,612,Chhindwara,District Hospital
+55,C -Section deliveries at facility,DH,1,0,Minimum,612,Chhindwara,District Hospital
+56,C -Section deliveries at facility,SDH,4,2,Maximum,33,Sausar,CH Saunsar
+57,C -Section deliveries at facility,SDH,4,2,Minimum,10,Pandhurna,CH Pandhurna
+58,C -Section deliveries at facility,CHC,12,12,Maximum,33,Sausar,CH Saunsar
+59,C -Section deliveries at facility,CHC,12,12,Minimum,10,Pandhurna,CH Pandhurna
+60,IPD Attendance,DH,1,0,Maximum,5545,Chhindwara,District Hospital
+61,IPD Attendance,DH,1,0,Minimum,5545,Chhindwara,District Hospital
+62,IPD Attendance,SDH,4,0,Maximum,1656,Sausar,CH Saunsar
+63,IPD Attendance,SDH,4,0,Minimum,257,Parasia,CH Chandameta
+64,IPD Attendance,CHC,12,0,Maximum,1656,Sausar,CH Saunsar
+65,IPD Attendance,CHC,12,0,Minimum,15,Amarwara,CHC Pounar
+66,IPD Attendance,PHC,68,31,Maximum,188,Harrai,BATKHAPA
+67,IPD Attendance,PHC,68,31,Minimum,2,Mohkheda,SHKARPUR
+68,IPD Attendance,PHC,68,31,Minimum,2,Sausar,Borgaon
+69,OPD attendance (All),DH,1,0,Maximum,49507,Chhindwara,District Hospital
+70,OPD attendance (All),DH,1,0,Minimum,49507,Chhindwara,District Hospital
+71,OPD attendance (All),SDH,4,0,Maximum,15231,Sausar,CH Saunsar
+72,OPD attendance (All),SDH,4,0,Minimum,11317,Amarwara,CH Amarwara
+73,OPD attendance (All),CHC,12,0,Maximum,15753,Jamai,CHC Jamai
+74,OPD attendance (All),CHC,12,0,Minimum,369,Amarwara,CHC Pounar
+75,OPD attendance (All),PHC,68,1,Maximum,3917,Sausar,Lodhikheda
+76,OPD attendance (All),PHC,68,1,Minimum,45,Chaurai,MACHAGORA
+77,OPD attendance (All),SC,312,0,Maximum,1209,Mohkheda,Bishapur
+78,OPD attendance (All),SC,312,0,Minimum,5,Jamai,RAKHIKOL
+79,Operation major (General and spinal anaesthesia),DH,1,0,Maximum,222,Chhindwara,District Hospital
+80,Operation major (General and spinal anaesthesia),DH,1,0,Minimum,222,Chhindwara,District Hospital
+81,Operation major (General and spinal anaesthesia),SDH,4,2,Maximum,35,Sausar,CH Saunsar
+82,Operation major (General and spinal anaesthesia),SDH,4,2,Minimum,5,Pandhurna,CH Pandhurna
+83,Operation major (General and spinal anaesthesia),CHC,12,12,Maximum,35,Sausar,CH Saunsar
+84,Operation major (General and spinal anaesthesia),CHC,12,12,Minimum,5,Pandhurna,CH Pandhurna
+85,Operation minor (No or local anaesthesia),DH,1,0,Maximum,391,Chhindwara,District Hospital
+86,Operation minor (No or local anaesthesia),DH,1,0,Minimum,391,Chhindwara,District Hospital
+87,Operation minor (No or local anaesthesia),SDH,4,0,Maximum,357,Amarwara,CH Amarwara
+88,Operation minor (No or local anaesthesia),SDH,4,0,Minimum,1,Pandhurna,CH Pandhurna
+89,Operation minor (No or local anaesthesia),CHC,12,9,Maximum,301,Parasia,CHC parasia
+90,Operation minor (No or local anaesthesia),CHC,12,9,Minimum,1,Pandhurna,CH Pandhurna
+91,Operation minor (No or local anaesthesia),PHC,68,55,Maximum,62,Chhindwara,JAMUNIA
+92,Operation minor (No or local anaesthesia),PHC,68,55,Minimum,1,Mohkheda,SHKARPUR

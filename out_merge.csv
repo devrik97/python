@@ -1,0 +1,151 @@
+id,Indicator,Facility Type,Total No. of Facilities #,Facilities reporting nil performance - Numbers*,Details of Maximum and Minimum Performing facilities - Performance,Details of Maximum and Minimum Performing facilities - Value Reported,Details of Maximum and Minimum Performing facilities - Sub-district,Details of Maximum and Minimum Performing facilities - Facility,index,sepal_length,sepal_width,petal_length,petal_width,species
+0.0,Deliveries conducted at facility,DH,1.0,0.0,Maximum,868.0,Raisen,RAISEN,0,5.1,3.5,1.4,0.2,setosa
+1.0,Deliveries conducted at facility,DH,1.0,0.0,Minimum,868.0,Raisen,RAISEN,1,4.9,3.0,1.4,0.2,setosa
+2.0,Deliveries conducted at facility,SDH,2.0,0.0,Maximum,479.0,Gairatganj,CHC GAIRATGANJ,2,4.7,3.2,1.3,0.2,setosa
+3.0,Deliveries conducted at facility,SDH,2.0,0.0,Minimum,327.0,Begamganj,CH Begumganj,3,4.6,3.1,1.5,0.2,setosa
+4.0,Deliveries conducted at facility,CHC,6.0,0.0,Maximum,479.0,Gairatganj,CHC GAIRATGANJ,4,5.0,3.6,1.4,0.2,setosa
+5.0,Deliveries conducted at facility,CHC,6.0,0.0,Minimum,100.0,Raisen,CHC sanchi,5,5.4,3.9,1.7,0.4,setosa
+6.0,Deliveries conducted at facility,PHC,22.0,8.0,Maximum,263.0,Obedullaganj,CHC Obaidullaganj,6,4.6,3.4,1.4,0.3,setosa
+7.0,Deliveries conducted at facility,PHC,22.0,8.0,Minimum,14.0,Baraily,utiya kala,7,5.0,3.4,1.5,0.2,setosa
+8.0,Deliveries conducted at facility,SC,185.0,179.0,Maximum,70.0,Raisen,kharbai,8,4.4,2.9,1.4,0.2,setosa
+9.0,Deliveries conducted at facility,SC,185.0,179.0,Minimum,4.0,Silwani,SHC Searmau,9,4.9,3.1,1.5,0.1,setosa
+10.0,C -Section deliveries at facility,DH,1.0,0.0,Maximum,152.0,Raisen,RAISEN,10,5.4,3.7,1.5,0.2,setosa
+11.0,C -Section deliveries at facility,DH,1.0,0.0,Minimum,152.0,Raisen,RAISEN,11,4.8,3.4,1.6,0.2,setosa
+12.0,C -Section deliveries at facility,CHC,6.0,6.0,Maximum,19.0,Obedullaganj,CHC Mandideep,12,4.8,3.0,1.4,0.1,setosa
+13.0,C -Section deliveries at facility,CHC,6.0,6.0,Minimum,19.0,Obedullaganj,CHC Mandideep,13,4.3,3.0,1.1,0.1,setosa
+14.0,IPD Attendance,DH,1.0,0.0,Maximum,5045.0,Raisen,RAISEN,14,5.8,4.0,1.2,0.2,setosa
+15.0,IPD Attendance,DH,1.0,0.0,Minimum,5045.0,Raisen,RAISEN,15,5.7,4.4,1.5,0.4,setosa
+16.0,IPD Attendance,SDH,2.0,0.0,Maximum,736.0,Begamganj,CH Begumganj,16,5.4,3.9,1.3,0.4,setosa
+17.0,IPD Attendance,SDH,2.0,0.0,Minimum,545.0,Gairatganj,CHC GAIRATGANJ,17,5.1,3.5,1.4,0.3,setosa
+18.0,IPD Attendance,CHC,6.0,0.0,Maximum,3598.0,Baraily,CHC Bareli,18,5.7,3.8,1.7,0.3,setosa
+19.0,IPD Attendance,CHC,6.0,0.0,Minimum,69.0,Baraily,CHC Badi,19,5.1,3.8,1.5,0.3,setosa
+20.0,IPD Attendance,PHC,22.0,8.0,Maximum,717.0,Obedullaganj,CHC Obaidullaganj,20,5.4,3.4,1.7,0.2,setosa
+21.0,IPD Attendance,PHC,22.0,8.0,Minimum,9.0,Baraily,utiya kala,21,5.1,3.7,1.5,0.4,setosa
+22.0,OPD attendance (All),DH,1.0,0.0,Maximum,65145.0,Raisen,RAISEN,22,4.6,3.6,1.0,0.2,setosa
+23.0,OPD attendance (All),DH,1.0,0.0,Minimum,65145.0,Raisen,RAISEN,23,5.1,3.3,1.7,0.5,setosa
+24.0,OPD attendance (All),SDH,2.0,0.0,Maximum,25074.0,Begamganj,CH Begumganj,24,4.8,3.4,1.9,0.2,setosa
+25.0,OPD attendance (All),SDH,2.0,0.0,Minimum,18325.0,Gairatganj,CHC GAIRATGANJ,25,5.0,3.0,1.6,0.2,setosa
+26.0,OPD attendance (All),CHC,6.0,0.0,Maximum,24942.0,Silwani,CHC Silwani,26,5.0,3.4,1.6,0.4,setosa
+27.0,OPD attendance (All),CHC,6.0,0.0,Minimum,7355.0,Baraily,CHC Badi,27,5.2,3.5,1.5,0.2,setosa
+28.0,OPD attendance (All),PHC,22.0,4.0,Maximum,19501.0,Obedullaganj,CHC Obaidullaganj,28,5.2,3.4,1.4,0.2,setosa
+29.0,OPD attendance (All),PHC,22.0,4.0,Minimum,120.0,Baraily,googalwada,29,4.7,3.2,1.6,0.2,setosa
+30.0,OPD attendance (All),SC,185.0,6.0,Maximum,795.0,Raisen,NARWAR,30,4.8,3.1,1.6,0.2,setosa
+31.0,OPD attendance (All),SC,185.0,6.0,Minimum,6.0,Obedullaganj,Obaidullaganj B,31,5.4,3.4,1.5,0.4,setosa
+32.0,Operation major (General and spinal anaesthesia),DH,1.0,0.0,Maximum,208.0,Raisen,RAISEN,32,5.2,4.1,1.5,0.1,setosa
+33.0,Operation major (General and spinal anaesthesia),DH,1.0,0.0,Minimum,208.0,Raisen,RAISEN,33,5.5,4.2,1.4,0.2,setosa
+34.0,Operation major (General and spinal anaesthesia),CHC,6.0,6.0,Maximum,5.0,Obedullaganj,CHC Mandideep,34,4.9,3.1,1.5,0.2,setosa
+35.0,Operation major (General and spinal anaesthesia),CHC,6.0,6.0,Minimum,5.0,Obedullaganj,CHC Mandideep,35,5.0,3.2,1.2,0.2,setosa
+36.0,Operation minor (No or local anaesthesia),DH,1.0,0.0,Maximum,105.0,Raisen,RAISEN,36,5.5,3.5,1.3,0.2,setosa
+37.0,Operation minor (No or local anaesthesia),DH,1.0,0.0,Minimum,105.0,Raisen,RAISEN,37,4.9,3.6,1.4,0.1,setosa
+38.0,Operation minor (No or local anaesthesia),SDH,2.0,1.0,Maximum,46.0,Begamganj,CH Begumganj,38,4.4,3.0,1.3,0.2,setosa
+39.0,Operation minor (No or local anaesthesia),SDH,2.0,1.0,Minimum,46.0,Begamganj,CH Begumganj,39,5.1,3.4,1.5,0.2,setosa
+40.0,Operation minor (No or local anaesthesia),CHC,6.0,5.0,Maximum,69.0,Baraily,CHC Bareli,40,5.0,3.5,1.3,0.3,setosa
+41.0,Operation minor (No or local anaesthesia),CHC,6.0,5.0,Minimum,58.0,Obedullaganj,CHC Mandideep,41,4.5,2.3,1.3,0.3,setosa
+42.0,Operation minor (No or local anaesthesia),PHC,22.0,20.0,Maximum,26.0,Obedullaganj,CHC Obaidullaganj,42,4.4,3.2,1.3,0.2,setosa
+43.0,Operation minor (No or local anaesthesia),PHC,22.0,20.0,Minimum,2.0,Obedullaganj,Sultanpur,43,5.0,3.5,1.6,0.6,setosa
+44.0,Deliveries conducted at facility,DH,1.0,0.0,Maximum,2617.0,Chhindwara,District Hospital,44,5.1,3.8,1.9,0.4,setosa
+45.0,Deliveries conducted at facility,DH,1.0,0.0,Minimum,2617.0,Chhindwara,District Hospital,45,4.8,3.0,1.4,0.3,setosa
+46.0,Deliveries conducted at facility,SDH,4.0,0.0,Maximum,409.0,Pandhurna,CH Pandhurna,46,5.1,3.8,1.6,0.2,setosa
+47.0,Deliveries conducted at facility,SDH,4.0,0.0,Minimum,102.0,Parasia,CH Chandameta,47,4.6,3.2,1.4,0.2,setosa
+48.0,Deliveries conducted at facility,CHC,12.0,0.0,Maximum,459.0,Parasia,CHC parasia,48,5.3,3.7,1.5,0.2,setosa
+49.0,Deliveries conducted at facility,CHC,12.0,0.0,Minimum,14.0,Amarwara,CHC Pounar,49,5.0,3.3,1.4,0.2,setosa
+50.0,Deliveries conducted at facility,PHC,68.0,25.0,Maximum,192.0,Harrai,BATKHAPA,50,7.0,3.2,4.7,1.4,versicolor
+51.0,Deliveries conducted at facility,PHC,68.0,25.0,Minimum,1.0,Chhindwara,ROHNAKALA,51,6.4,3.2,4.5,1.5,versicolor
+52.0,Deliveries conducted at facility,PHC,68.0,25.0,Minimum,1.0,Parasia,Kundali,52,6.9,3.1,4.9,1.5,versicolor
+53.0,Deliveries conducted at facility,PHC,68.0,25.0,Minimum,1.0,Parasia,Pagara,53,5.5,2.3,4.0,1.3,versicolor
+54.0,Deliveries conducted at facility,PHC,68.0,25.0,Minimum,1.0,Parasia,Ridhora,54,6.5,2.8,4.6,1.5,versicolor
+55.0,Deliveries conducted at facility,PHC,68.0,25.0,Minimum,1.0,Sausar,Borgaon,55,5.7,2.8,4.5,1.3,versicolor
+56.0,Deliveries conducted at facility,SC,312.0,307.0,Maximum,3.0,Parasia,JAMUNIYAJETU,56,6.3,3.3,4.7,1.6,versicolor
+57.0,Deliveries conducted at facility,SC,312.0,307.0,Maximum,3.0,Sausar,Razhadipipla,57,4.9,2.4,3.3,1.0,versicolor
+58.0,Deliveries conducted at facility,SC,312.0,307.0,Minimum,1.0,Mohkheda,Shikarpur,58,6.6,2.9,4.6,1.3,versicolor
+59.0,C -Section deliveries at facility,DH,1.0,0.0,Maximum,617.0,Chhindwara,District Hospital,59,5.2,2.7,3.9,1.4,versicolor
+60.0,C -Section deliveries at facility,DH,1.0,0.0,Minimum,617.0,Chhindwara,District Hospital,60,5.0,2.0,3.5,1.0,versicolor
+61.0,IPD Attendance,DH,1.0,0.0,Maximum,13026.0,Chhindwara,District Hospital,61,5.9,3.0,4.2,1.5,versicolor
+62.0,IPD Attendance,DH,1.0,0.0,Minimum,13026.0,Chhindwara,District Hospital,62,6.0,2.2,4.0,1.0,versicolor
+63.0,IPD Attendance,SDH,4.0,0.0,Maximum,2259.0,Sausar,CH Saunsar,63,6.1,2.9,4.7,1.4,versicolor
+64.0,IPD Attendance,SDH,4.0,0.0,Minimum,365.0,Parasia,CH Chandameta,64,5.6,2.9,3.6,1.3,versicolor
+65.0,IPD Attendance,CHC,12.0,0.0,Maximum,2259.0,Sausar,CH Saunsar,65,6.7,3.1,4.4,1.4,versicolor
+66.0,IPD Attendance,CHC,12.0,0.0,Minimum,16.0,Amarwara,CHC Pounar,66,5.6,3.0,4.5,1.5,versicolor
+67.0,IPD Attendance,PHC,68.0,27.0,Maximum,193.0,Harrai,BATKHAPA,67,5.8,2.7,4.1,1.0,versicolor
+68.0,IPD Attendance,PHC,68.0,27.0,Minimum,2.0,Chaurai,KUNDA,68,6.2,2.2,4.5,1.5,versicolor
+69.0,IPD Attendance,PHC,68.0,27.0,Minimum,2.0,Jamai,Goptarai,69,5.6,2.5,3.9,1.1,versicolor
+70.0,IPD Attendance,PHC,68.0,27.0,Minimum,2.0,Mohkheda,HEERAWADI,70,5.9,3.2,4.8,1.8,versicolor
+71.0,OPD attendance (All),DH,1.0,0.0,Maximum,72232.0,Chhindwara,District Hospital,71,6.1,2.8,4.0,1.3,versicolor
+72.0,OPD attendance (All),DH,1.0,0.0,Minimum,72232.0,Chhindwara,District Hospital,72,6.3,2.5,4.9,1.5,versicolor
+73.0,OPD attendance (All),SDH,4.0,0.0,Maximum,15134.0,Amarwara,CH Amarwara,73,6.1,2.8,4.7,1.2,versicolor
+74.0,OPD attendance (All),SDH,4.0,0.0,Minimum,6742.0,Parasia,CH Chandameta,74,6.4,2.9,4.3,1.3,versicolor
+75.0,OPD attendance (All),CHC,12.0,0.0,Maximum,15419.0,Jamai,CHC Jamai,75,6.6,3.0,4.4,1.4,versicolor
+76.0,OPD attendance (All),CHC,12.0,0.0,Minimum,514.0,Amarwara,PHC Singodi,76,6.8,2.8,4.8,1.4,versicolor
+77.0,OPD attendance (All),PHC,68.0,2.0,Maximum,3589.0,Pandhurna,Marud,77,6.7,3.0,5.0,1.7,versicolor
+78.0,OPD attendance (All),PHC,68.0,2.0,Minimum,18.0,Chaurai,MACHAGORA,78,6.0,2.9,4.5,1.5,versicolor
+79.0,OPD attendance (All),SC,312.0,17.0,Maximum,825.0,Amarwara,Sonpur,79,5.7,2.6,3.5,1.0,versicolor
+80.0,OPD attendance (All),SC,312.0,17.0,Minimum,5.0,Jamai,Morkund,80,5.5,2.4,3.8,1.1,versicolor
+81.0,Operation major (General and spinal anaesthesia),DH,1.0,0.0,Maximum,775.0,Chhindwara,District Hospital,81,5.5,2.4,3.7,1.0,versicolor
+82.0,Operation major (General and spinal anaesthesia),DH,1.0,0.0,Minimum,775.0,Chhindwara,District Hospital,82,5.8,2.7,3.9,1.2,versicolor
+83.0,Operation major (General and spinal anaesthesia),SDH,4.0,3.0,Maximum,2.0,Pandhurna,CH Pandhurna,83,6.0,2.7,5.1,1.6,versicolor
+84.0,Operation major (General and spinal anaesthesia),SDH,4.0,3.0,Minimum,2.0,Pandhurna,CH Pandhurna,84,5.4,3.0,4.5,1.5,versicolor
+85.0,Operation major (General and spinal anaesthesia),CHC,12.0,13.0,Maximum,2.0,Pandhurna,CH Pandhurna,85,6.0,3.4,4.5,1.6,versicolor
+86.0,Operation major (General and spinal anaesthesia),CHC,12.0,13.0,Minimum,2.0,Pandhurna,CH Pandhurna,86,6.7,3.1,4.7,1.5,versicolor
+87.0,Operation minor (No or local anaesthesia),DH,1.0,0.0,Maximum,978.0,Chhindwara,District Hospital,87,6.3,2.3,4.4,1.3,versicolor
+88.0,Operation minor (No or local anaesthesia),DH,1.0,0.0,Minimum,978.0,Chhindwara,District Hospital,88,5.6,3.0,4.1,1.3,versicolor
+89.0,Operation minor (No or local anaesthesia),SDH,4.0,1.0,Maximum,202.0,Sausar,CH Saunsar,89,5.5,2.5,4.0,1.3,versicolor
+90.0,Operation minor (No or local anaesthesia),SDH,4.0,1.0,Minimum,10.0,Pandhurna,CH Pandhurna,90,5.5,2.6,4.4,1.2,versicolor
+91.0,Operation minor (No or local anaesthesia),CHC,12.0,7.0,Maximum,319.0,Parasia,CHC parasia,91,6.1,3.0,4.6,1.4,versicolor
+92.0,Operation minor (No or local anaesthesia),CHC,12.0,7.0,Minimum,6.0,Amarwara,PHC Singodi,92,5.8,2.6,4.0,1.2,versicolor
+93.0,Operation minor (No or local anaesthesia),PHC,68.0,55.0,Maximum,60.0,Mohkheda,LINGA,93,5.0,2.3,3.3,1.0,versicolor
+94.0,Operation minor (No or local anaesthesia),PHC,68.0,55.0,Minimum,2.0,Parasia,Mordongri,94,5.6,2.7,4.2,1.3,versicolor
+,,,,,,,,,95,5.7,3.0,4.2,1.2,versicolor
+,,,,,,,,,96,5.7,2.9,4.2,1.3,versicolor
+,,,,,,,,,97,6.2,2.9,4.3,1.3,versicolor
+,,,,,,,,,98,5.1,2.5,3.0,1.1,versicolor
+,,,,,,,,,99,5.7,2.8,4.1,1.3,versicolor
+,,,,,,,,,100,6.3,3.3,6.0,2.5,virginica
+,,,,,,,,,101,5.8,2.7,5.1,1.9,virginica
+,,,,,,,,,102,7.1,3.0,5.9,2.1,virginica
+,,,,,,,,,103,6.3,2.9,5.6,1.8,virginica
+,,,,,,,,,104,6.5,3.0,5.8,2.2,virginica
+,,,,,,,,,105,7.6,3.0,6.6,2.1,virginica
+,,,,,,,,,106,4.9,2.5,4.5,1.7,virginica
+,,,,,,,,,107,7.3,2.9,6.3,1.8,virginica
+,,,,,,,,,108,6.7,2.5,5.8,1.8,virginica
+,,,,,,,,,109,7.2,3.6,6.1,2.5,virginica
+,,,,,,,,,110,6.5,3.2,5.1,2.0,virginica
+,,,,,,,,,111,6.4,2.7,5.3,1.9,virginica
+,,,,,,,,,112,6.8,3.0,5.5,2.1,virginica
+,,,,,,,,,113,5.7,2.5,5.0,2.0,virginica
+,,,,,,,,,114,5.8,2.8,5.1,2.4,virginica
+,,,,,,,,,115,6.4,3.2,5.3,2.3,virginica
+,,,,,,,,,116,6.5,3.0,5.5,1.8,virginica
+,,,,,,,,,117,7.7,3.8,6.7,2.2,virginica
+,,,,,,,,,118,7.7,2.6,6.9,2.3,virginica
+,,,,,,,,,119,6.0,2.2,5.0,1.5,virginica
+,,,,,,,,,120,6.9,3.2,5.7,2.3,virginica
+,,,,,,,,,121,5.6,2.8,4.9,2.0,virginica
+,,,,,,,,,122,7.7,2.8,6.7,2.0,virginica
+,,,,,,,,,123,6.3,2.7,4.9,1.8,virginica
+,,,,,,,,,124,6.7,3.3,5.7,2.1,virginica
+,,,,,,,,,125,7.2,3.2,6.0,1.8,virginica
+,,,,,,,,,126,6.2,2.8,4.8,1.8,virginica
+,,,,,,,,,127,6.1,3.0,4.9,1.8,virginica
+,,,,,,,,,128,6.4,2.8,5.6,2.1,virginica
+,,,,,,,,,129,7.2,3.0,5.8,1.6,virginica
+,,,,,,,,,130,7.4,2.8,6.1,1.9,virginica
+,,,,,,,,,131,7.9,3.8,6.4,2.0,virginica
+,,,,,,,,,132,6.4,2.8,5.6,2.2,virginica
+,,,,,,,,,133,6.3,2.8,5.1,1.5,virginica
+,,,,,,,,,134,6.1,2.6,5.6,1.4,virginica
+,,,,,,,,,135,7.7,3.0,6.1,2.3,virginica
+,,,,,,,,,136,6.3,3.4,5.6,2.4,virginica
+,,,,,,,,,137,6.4,3.1,5.5,1.8,virginica
+,,,,,,,,,138,6.0,3.0,4.8,1.8,virginica
+,,,,,,,,,139,6.9,3.1,5.4,2.1,virginica
+,,,,,,,,,140,6.7,3.1,5.6,2.4,virginica
+,,,,,,,,,141,6.9,3.1,5.1,2.3,virginica
+,,,,,,,,,142,5.8,2.7,5.1,1.9,virginica
+,,,,,,,,,143,6.8,3.2,5.9,2.3,virginica
+,,,,,,,,,144,6.7,3.3,5.7,2.5,virginica
+,,,,,,,,,145,6.7,3.0,5.2,2.3,virginica
+,,,,,,,,,146,6.3,2.5,5.0,1.9,virginica
+,,,,,,,,,147,6.5,3.0,5.2,2.0,virginica
+,,,,,,,,,148,6.2,3.4,5.4,2.3,virginica
+,,,,,,,,,149,5.9,3.0,5.1,1.8,virginica
